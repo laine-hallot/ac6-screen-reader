@@ -1,0 +1,4 @@
+[package]
+name = "ac6-screen-reader"
+version = "0.1.0"
+edition = "2021"
